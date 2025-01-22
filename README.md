@@ -4,7 +4,7 @@
 This project focuses on creating a customer retention dashboard for a telecom company. The dashboard is designed to visualize key performance indicators (KPIs) and provide insights into customer behavior, helping the retention team take proactive measures.  
 
 ## Check the interactive Dashboard
-https://app.powerbi.com/groups/me/reports/6e559f99-9540-4747-ab34-1f2988f829b1/9fadc4630405c0b26493?experience=power-bi
+[Click to watch Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2I1NjdmNjQtOWMzNC00NjZiLWJjNzktZTM1M2QyMTgzYTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tools Used  
 - Power BI (Data Cleaning & Analysis, Dashboard Creation )  
